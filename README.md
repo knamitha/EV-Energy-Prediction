@@ -28,3 +28,9 @@ This project predicts EV energy consumption using Random Forest Regressor.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## Author
+## Author: NAMITHA K
+Project Type: End-to-End Machine Learning Project
+Algorithm: Random Forest Regressor
+Tools Used: Python, Pandas, Scikit-learn, Gradio
