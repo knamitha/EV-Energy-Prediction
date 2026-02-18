@@ -1,4 +1,11 @@
 # EV Energy Consumption Prediction 
+EV_Energy_Prediction/
+│
+├── app.py
+├── ev_energy_model.pkl
+├── requirements.txt
+├── README.md
+└── ev_dataset.csv 
 
 ## Project Overview
 This project predicts EV energy consumption using Random Forest Regressor.
